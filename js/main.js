@@ -1,0 +1,1 @@
+console.log("main.js 가 제대로 연결 되었습니다.")
